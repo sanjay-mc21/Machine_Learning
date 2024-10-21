@@ -20,4 +20,4 @@ This repository contains implementations and training exercises for fundamental 
 To run any of the models, follow these steps:
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/sanjay-mc21/Machine_Learning.git
